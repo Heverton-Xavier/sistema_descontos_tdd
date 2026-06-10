@@ -10,7 +10,7 @@ Sistema desenvolvido para aplicar descontos progressivos em valores numéricos, 
 
 ## 👨‍💻 Desenvolvedor
 
-**Aluno:** [Seu nome aqui]  
+**Aluno:** Heverton Xavier  
 **Curso:** Quality Assurance (QA)
 
 ## ⚙️ Funcionalidades
